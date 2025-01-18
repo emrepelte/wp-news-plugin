@@ -1,0 +1,29 @@
+{
+    "name": "CNN Türk Haber Botu",
+    "slug": "wp-cnnturk-haber-botu",
+    "version": "1.0.1",
+    "download_url": "https://github.com/emrepelte/wp-news-plugin/releases/download/v1.0.1/haber_botu_2025.zip",
+    "requires": "5.0",
+    "tested": "6.4",
+    "requires_php": "7.4",
+    "last_updated": "2024-01-17",
+    "author": "Emre Pelte",
+    "homepage": "https://github.com/emrepelte/wp-news-plugin",
+    "sections": {
+        "description": "Bu eklenti haberleri otomatik olarak çeker.",
+        "changelog": {
+            "1.0.1": [
+                "Yeni admin panel tasarımı eklendi",
+                "Bot durumu izleme özelliği eklendi",
+                "Profil ve lisans yönetimi sayfaları eklendi",
+                "Otomatik güncelleme sistemi eklendi",
+                "Haber çekme algoritması güncellendi",
+                "Mükerrer haber kontrolü iyileştirildi",
+                "Log kayıtları temizleme özelliği eklendi"
+            ],
+            "1.0.0": [
+                "İlk sürüm yayınlandı."
+            ]
+        }
+    }
+}
